@@ -86,8 +86,6 @@ https://github.com/seu-usuario/seu-repositorio
 
 ---
 
-#################################################
-
 ## 🌾 Agrinho 2026
 
 Projeto desenvolvido para participação no Concurso Agrinho 2026, promovido pelo SENAR-PR e pela Secretaria de Estado da Educação do Paraná.
@@ -137,6 +135,10 @@ Gere o código completo em arquivos separados:
 - script.js
 
 Comece criando o arquivo index.html com toda a estrutura de escrita.
+
+
+
+site criado por: Bruna Emanuelli Tscha
 
 
 DICAS ADICIONAIS
